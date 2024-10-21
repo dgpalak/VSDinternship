@@ -1,6 +1,5 @@
 # VSDinternship
-This repository includes the files related to VSDSquadron Mini Research Internship Program - 20th October Cohort done by Palak Gupta
-Course Instructor: Kunal Ghosh
+
 Task: 1
 Create GitHub repo.
 Install RISC-V toolchain using VDI shared over whatsapp group.
